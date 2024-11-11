@@ -2,7 +2,7 @@ class Personne:
     # Déclaration des attributs de classe par défaut
     nom = "ER-RAKIBI"
     prenom = "Anas"
-    age = 21
+    age = 20
 
     # Méthode pour afficher les informations d'une personne
     def afficher(self):
